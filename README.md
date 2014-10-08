@@ -19,3 +19,5 @@ How this app works:
 
 A small preview:
 
+
+![alt text](https://raw.githubusercontent.com/nealmanaktola/preview-url/master/preview-url.gif "Logo Title Text 1")
